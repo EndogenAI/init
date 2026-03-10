@@ -1,0 +1,5 @@
+
+# Dogma-specific links (init is minimal scaffold, not full dogma fork)
+# Update these when init gains full agent/docs/scripts structure
+https://github.com/EndogenAI/Workflows/.*
+https://github.com/EndogenAI/dogma/.*
