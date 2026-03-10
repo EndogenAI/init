@@ -3,3 +3,6 @@
 # Update these when init gains full agent/docs/scripts structure
 https://github.com/EndogenAI/Workflows/.*
 https://github.com/EndogenAI/dogma/.*
+
+# Local file links in repo-specific READMEs (init is minimal scaffold)
+^file:///.*
